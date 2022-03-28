@@ -8,7 +8,7 @@ export default {
 
   // basic site info (required)
   name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
+  domain: 'transitive-monkeypaul.vercel.app',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
